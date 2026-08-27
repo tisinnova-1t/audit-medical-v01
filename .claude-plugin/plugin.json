@@ -1,0 +1,9 @@
+{
+  "name": "audit-medical-v01",
+  "version": "0.1.0",
+  "description": "Audit MLQA di perizie medico-legali ISP (Intesa Sanpaolo Assicura). Scoring strutturato in 6 fasi, generazione report .docx, confronto CTC, aggiornamento tracker.",
+  "author": {
+    "name": "TIS Company"
+  },
+  "keywords": ["mlqa", "perizia", "isp", "medico-legale", "audit", "infortuni", "rca"]
+}
