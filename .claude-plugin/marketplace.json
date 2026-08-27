@@ -1,0 +1,17 @@
+{
+  "name": "tis-audit-medical",
+  "owner": {
+    "name": "TIS Company",
+    "email": "riccardo.roma@tiscompany.it"
+  },
+  "description": "Marketplace interno TIS per plugin di audit medico-legale su perizie ISP.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "audit-medical-v01",
+      "source": "./",
+      "description": "Audit MLQA di perizie medico-legali ISP (Intesa Sanpaolo Assicura). Scoring in 6 fasi, generazione report .docx, confronto CTC, aggiornamento tracker.",
+      "version": "0.1.0"
+    }
+  ]
+}
